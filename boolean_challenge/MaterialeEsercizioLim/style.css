@@ -1,0 +1,82 @@
+body{
+    background-image: url('./newBackground.jpg');
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    align-content: center;
+    background-color: rgba(00,00,00,0.5);
+    width:70%;
+    height: 900px;
+    margin:auto;
+    margin-top: 50px;
+    border-radius:25px;
+}
+
+#header{
+    padding-top:75px;
+    text-align: center;
+    color: rgb(31, 238, 31);
+}
+
+#logo{
+    align-self: center;
+    width: 250px;
+    height: auto;
+}
+
+nav{
+    background-color: rgb(31, 238, 31);
+    padding: 3px 0px ;
+    width: 80%;
+    margin:auto;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+main{
+    margin-top: 30px;
+    margin-left:135px;
+}
+
+p{
+    line-height: 15px;
+    color:white;
+}
+
+.monopattino{
+    font-size: 25px;
+    color:white;
+    font-weight: bold;
+}
+
+
+#bar1{
+    height: 35px;
+    width: 300px;
+    background-color: rgb(230, 163, 87);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#bar2{
+    height: 35px;
+    width: 450px;
+    background-color: rgb(35, 219, 35);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#bar3{
+    height: 35px;
+    width: 150px;
+    background-color: rgb(196, 67, 67);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
